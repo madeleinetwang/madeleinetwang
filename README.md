@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @maddytwang
-- 🌱 B.A. Data Science, UC Berkeley
+- Hi, I’m @madeleinetwang
+- B.A. Data Science, UC Berkeley
+- M.S. Statistics (Data Science), Stanford
 
 <!---
 maddytwang/maddytwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
