@@ -19,7 +19,7 @@ hello. welcome to my github.
 
 ```
 
-education maxxing:
+my creds:
 - B.A. Data Science, UC Berkeley
 - M.S. Statistics (Data Science), Stanford University
 
